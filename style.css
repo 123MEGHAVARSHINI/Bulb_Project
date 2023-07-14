@@ -1,0 +1,23 @@
+#background{
+    background: rgb(220, 58, 153);
+}
+#heading{
+    background: rgb(42, 211, 121);
+    height:1000ox;
+    width:900px;
+    margin-top:70px;
+    text-align: center;
+    text-shadow: 5px 5px 4px whitesmoke;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+    border:5px red;
+}
+#design{
+    margin-top:200px;
+    margin:auto;
+    height:60ox;
+    width:900px;
+    padding-top:150px;
+
+    
+}
